@@ -1,0 +1,26 @@
+{
+  "name": "onadaccord",
+  "version": "1.0.0",
+  "description": "onadaccord ==========",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "bootstrap": "^4.2.1",
+    "bootswatch": "^4.2.1",
+    "jquery": "^3.3.1",
+    "node-sass": "^4.11.0",
+    "popper.js": "^1.14.6"
+  },
+  "devDependencies": {
+    "@symfony/webpack-encore": "^0.22.2",
+    "sass-loader": "^7.1.0",
+    "webpack-notifier": "^1.7.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ziadoof",
+  "license": "ISC"
+}
